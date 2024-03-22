@@ -1,16 +1,9 @@
 
-# Gerador de apostas 🍀
-
-Esse algoritmo que fiz sorteia 6 numeros de 1 a 60 para quem quiser jogar na mega-sena!
-
-
-## Autores
-
-- [@guifelixx](https://github.com/guifelixx)
-
+## Bet Generator 🍀
+This algorithm I made randomly selects 6 numbers from 1 to 60 for anyone who wants to play the Mega Sena lottery!
 
 ## Explanation
 
-Primeiramente, estou muito feliz e motivado porque esse é o meu primeiro projeto que subi pro github!
+First of all, I am very happy and motivated because this is my first project that I uploaded to GitHub!
 
-Nesse progama resolvi dar uma brincada com a library Tkinter que é padrão do Python, criei uma interface gráfica simples porém humilde 😊. Estou aceitando contribuições, afinal quero aprender mais sobre essa library e deixar meus códigos mais apresentáveis de vez em quando. Obrigado! ❤
+In this program, I decided to have some fun with the Tkinter library, which is standard in Python. I created a simple but humble graphical interface 😊. I am accepting contributions because I want to learn more about this library and occasionally make my code more presentable. Thank you! ❤
